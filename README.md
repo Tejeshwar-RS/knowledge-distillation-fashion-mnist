@@ -13,4 +13,5 @@ This project is a practical implementation of knowledge distillation, a model co
 - PyTorch
 - NumPy
 - Matplotlib
+- Pillow
 - Google Colab (for GPU-accelerated training)
